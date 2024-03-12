@@ -52,7 +52,7 @@ body{
 }
 
 .logo{
-    background-image: url("images/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size:cover;
     background-position: center;
     width: 120px;
@@ -211,17 +211,17 @@ body{
 }
 
 @keyframes fade{
-    0%{background-image:url('images/hero_1.jpg');
+    0%{background-image:url('hero_1.jpg');
         background-size: cover;}
-    20%{background-image:url('images/hero_2.jpg');
+    20%{background-image:url('hero_2.jpg');
         background-size: cover;}
-    40%{background-image:url('images/hero_3.jpg');
+    40%{background-image:url('hero_3.jpg');
         background-size: cover;}
-    60%{background-image:url('images/hero_4.jpg');
+    60%{background-image:url('hero_4.jpg');
         background-size: cover;}
-    80%{background-image:url('images/hero_5.jpg');
+    80%{background-image:url('hero_5.jpg');
         background-size: cover;}
-    100%{background-image:url('images/hero_6.jpg');
+    100%{background-image:url('hero_6.jpg');
         background-size: cover;}
 }
 /** Hero - Product drawer **/
@@ -277,7 +277,7 @@ body{
     height: 300px;
     width: 260px;
     background-color: white;
-    background-image:url("images/product_1.jpg");
+    background-image:url("product_1.jpg");
     background-position: center;
     margin: 10px 10px 10px 20px;
 }
@@ -305,7 +305,7 @@ body{
     height: 300px;
     width: 260px;
     background-color: white;
-    background-image:url("images/product_2.jpg");
+    background-image:url("product_2.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -335,7 +335,7 @@ body{
     height: 300px;
     width: 260px;
     background-color: white;
-    background-image:url("images/product_3.jpg");
+    background-image:url("product_3.jpg");
     background-position: center;
     margin: 10px 10px 10px 20px;
 }
@@ -363,7 +363,7 @@ body{
     height: 300px;
     width: 260px;
     background-color: white;
-    background-image:url("images/product_4.jpg");
+    background-image:url("product_4.jpg");
     background-position: center;
     margin: 10px 10px 10px 20px;
 }
@@ -391,7 +391,7 @@ body{
     height: 300px;
     width: 260px;
     background-color: white;
-    background-image:url("images/product_5.jpg");
+    background-image:url("product_5.jpg");
     background-position: center;
     margin: 10px 10px 10px 20px;
 }
@@ -419,7 +419,7 @@ body{
     height: 300px;
     width: 260px;
     background-color: white;
-    background-image:url("images/product_6.jpg");
+    background-image:url("product_6.jpg");
     background-position: center;
     margin: 10px 10px 10px 20px;
 }
@@ -447,7 +447,7 @@ body{
     height: 300px;
     width: 260px;
     background-color: white;
-    background-image:url("images/product_7.jpg");
+    background-image:url("product_7.jpg");
     background-position: center;
     margin: 10px 10px 10px 20px;
 }
@@ -475,7 +475,7 @@ body{
     height: 300px;
     width: 260px;
     background-color: white;
-    background-image:url("images/product_8.jpg");
+    background-image:url("product_8.jpg");
     background-position: center;
     margin: 10px 10px 10px 20px;
 }
@@ -596,7 +596,7 @@ ul a{
 .footer-img{
     height: 50px;
     width: 100px;
-    background-image: url("images/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size: cover;
     margin-right: 30px;
     margin-top: 25px;
